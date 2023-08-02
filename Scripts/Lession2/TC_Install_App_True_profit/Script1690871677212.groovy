@@ -60,7 +60,7 @@ WebUI.setText(storeName, b)
 WebUI.click(span_clickRa)
 
 
-//Create store
+//Create store spf
 def get_final_StoreName	(def tenStore)
 {
 	
